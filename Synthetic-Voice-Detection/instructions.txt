@@ -1,0 +1,8 @@
+
+Make sure you have python >=3.6 and a venv
+If you wish to train your own model, Download the pre-processed-data from https://drive.google.com/file/d/16Z19f7iZND_V7kkyDKlDQtWfsuFW_qml/view?usp=sharing   put the downloaded under the folder pre-processed-data
+
+1. run "pip install -r requirements"
+2. put the file you want to test under test_file folder
+3. run main.py to test the audio under test_file folder
+4. run train_model.py to train your own model.

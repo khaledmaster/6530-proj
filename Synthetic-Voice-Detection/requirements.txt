@@ -1,0 +1,8 @@
+keras==2.4.3
+librosa==0.8.0
+pandas==1.2.3
+tensorflow==2.4.1
+matplotlib==3.3.4
+tqdm==4.59.0
+tables==3.6.1
+
